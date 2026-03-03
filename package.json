@@ -1,0 +1,14 @@
+{
+  "name": "anycrave",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
